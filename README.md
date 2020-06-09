@@ -8,7 +8,7 @@ In the group we have worked on these subjects:
 
 * Topics: Image Classification, Image Localisation, Image Segmentation
 
-* Architectures - Methods: Artificial Neural Networks (Fully-Connected Neural Networks), Convolutional Neural Networks (CNN), GANs
+* Architectures - Methods: Artificial Neural Networks (Fully-Connected Neural Networks), Convolutional Neural Networks (CNN)
 
 * Environments: Google Colab, Jupyter Notebook (Local)
 
