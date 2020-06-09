@@ -6,7 +6,7 @@ In the group we have worked on these subjects:
 
 * Frameworks: Tensorflow, Keras Functional API, Keras Sequential API, Pytorch
 
-* Topics: Image Classification, Image Localisation, Image Segmentation, Image Object Detection, Image Generation (Image Restoration/Inpainting)
+* Topics: Image Classification, Image Localisation, Image Segmentation
 
 * Architectures - Methods: Artificial Neural Networks (Fully-Connected Neural Networks), Convolutional Neural Networks (CNN), GANs
 
