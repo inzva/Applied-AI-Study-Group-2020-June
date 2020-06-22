@@ -35,3 +35,5 @@ For all examples in Week1, we have worked on Google Colab.
 ### Homework 1
 
 In homework one, participants take an aligned hand image dataset with keypoint labels, and try to preprocess the dataset and make regression on the keypoint coordinates.
+
+### Week2 - Natural Language Processing
