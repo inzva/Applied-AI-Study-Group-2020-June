@@ -1,5 +1,5 @@
 
-## Homework 2 - Text Generation
+## Homework 3 - Text Generation
 
 - This homework will make you familiar with existing scraping tools and using them to scrape an NLP dataset from web. 
 
