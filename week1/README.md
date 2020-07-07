@@ -1,10 +1,12 @@
-Welcome to inzva Applied AI Study Group! 
+### Welcome to inzva Applied AI Study Group! 
 
 We will investigate upon the fields in AI such as computer vision, NLP, anomaly detection and traditional machine learning. We will use various types of architectures, such as artificial neural networks, convolutional neural networks, auto-encoders, generative adversarial networks and embedding layers. In addition, we will use a variety of frameworks such as TensorFlow, PyTorch, Keras, and system ml.
 
+------------
+
 In this week’s module, we will cover some concepts about computer vision and start working with classification, localization and segmentation problems, using MNIST, CIFAR10 and Kaggle Facial Keypoint Detection datasets.
 
-1- In this notebook, we do classification in MNIST dataset, using TensorFlow and artificial neural networks. We talk about TensorFlow concepts such as sessions and placeholder objects. We use Google Colab as our computing platform.
+1- In the first notebook, we do classification in MNIST dataset, using TensorFlow and artificial neural networks. We talk about TensorFlow concepts such as sessions and placeholder objects. We use Google Colab as our computing platform.
 
 The video is on Youtube: https://youtu.be/w0e-Q4_56cA
 
