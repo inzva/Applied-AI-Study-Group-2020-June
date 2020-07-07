@@ -38,10 +38,19 @@ In homework one, participants take an aligned hand image dataset with keypoint l
 
 
 ### Week2 - Natural Language Processing
--
+We have worked on four problems.
+
+* Motivating example for word embeddings with Keras
+
+* Recommender system using word embeddings and wikipedia data with Keras
+
+* Spam text classification example with SimpleRNN, GRU and LSTM layers on Keras
+
+* Machine Translation example with different Recurrent Neural Networks structures and different layer types. We create English to French translation model using Keras.
+
 
 ### Homework 2
--
+In homework two, participants are asked to create a book recommendation system using Online Retail data. Sequences of bought items can be used to feed the word2vec model to create such system.
 
 
 ### Week 3 - Various Topics
@@ -63,5 +72,14 @@ We both used locally hosted Jupyter Notebooks and Google Colab.
 In homework three, participants practice on data acquisition (scraping) with a tool specialized on scraping news sites. They try to make use of an deep learning natural language processing library to obtain a premade language model. They also optionally develop their own models for language modelling.
 
 
-### Week4 - 
--
+### Week4 - Anoamly Detection & Recommender Systems
+
+In last week of Applied AI program we have worked on Anomaly Detection and Recommender System problems. For anomaly detection, we use KDDCUP'99 dataset and we try to classify Normal and Probing labels. For recommender system models, we use MovieLens dataset to create different recommender system models.
+
+There are three different notebooks in this week.
+
+* Anomaly Detection Notebook: Includes Isolation Forest, Local Outlier Factor, Autoencoder and XGBoost models for Anomaly Detection.
+
+* Recompy, Matrix Factorization Based Recommender System : FunkSVD algorithm is applied to create Recommender System model.
+
+* Mult-DAE: Multinomial Denoising Autoencoder model is implemented to create a recommender system algorithm which works with implicit feedback.
