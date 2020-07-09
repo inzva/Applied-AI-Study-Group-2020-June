@@ -2,6 +2,8 @@
 
 This is the repository for the content of inzva 2020-June Applied AI Study Group, guided by Ahmet Melek and Onur Boyar.
 
+The videos of the course in Youtube: https://www.youtube.com/playlist?list=PLhnxo6HZwBgnTokZUfwM-sM0-DXRyp-rl
+
 In the group we have worked on these subjects:
 
 * Frameworks: Tensorflow, Keras Functional API, Keras Sequential API, Pytorch
