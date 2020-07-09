@@ -2,7 +2,7 @@
 
 This is the repository for the content of inzva 2020-June Applied AI Study Group, guided by Ahmet Melek and Onur Boyar.
 
-The videos of the course in Youtube: https://www.youtube.com/playlist?list=PLhnxo6HZwBgnTokZUfwM-sM0-DXRyp-rl
+You can see all 4 weeks from our playlist on YouTube: https://www.youtube.com/playlist?list=PLhnxo6HZwBgnTokZUfwM-sM0-DXRyp-rl
 
 In the group we have worked on these subjects:
 
