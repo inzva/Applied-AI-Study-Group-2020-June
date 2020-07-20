@@ -8,9 +8,9 @@ In the group we have worked on these subjects:
 
 * Frameworks: Tensorflow, Keras Functional API, Keras Sequential API, Pytorch
 
-* Topics: Image Classification, Image Localisation, Image Segmentation
+* Topics: Image Classification, Image Localisation, Image Segmentation, NLP, Anomaly Detection, Recommender Systems
 
-* Architectures - Methods: Artificial Neural Networks (Fully-Connected Neural Networks), Convolutional Neural Networks (CNN)
+* Architectures - Methods: Artificial Neural Networks (Fully-Connected Neural Networks), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN, LSTM, GRU), Autoencoders, Denoising Autoencoders, Isolating Forest, Local Outlier Factor, XGBoost, FunkSVD.
 
 * Environments: Google Colab, Jupyter Notebook (Local)
 
